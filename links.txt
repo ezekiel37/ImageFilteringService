@@ -1,0 +1,10 @@
+http://udagram-eze-dev-dev.us-west-2.elasticbeanstalk.com
+
+https://github.com/ezekiel37/ImageFilteringService
+
+
+https://cdn.pixabay.com/photo/2022/06/27/14/38/cat-7287671_1280.jpg -original image
+
+
+http://udagram-eze-dev-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2022/06/27/14/38/cat-7287671_1280.jpg-filtered image
+
